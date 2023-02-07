@@ -1,1 +1,1 @@
-my first directory
+my first directory, and first to be pulled from github
